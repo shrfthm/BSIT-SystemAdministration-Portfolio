@@ -10,7 +10,7 @@ The repository is organized chronologically by week to track progress and delive
 
 ```text
 .
-├── Week 01/
+├── Week 01/ Orientation & Building Your Professional Environment
 ├── Week 02/
 ├── Week 03/
 ├── Week 04/
