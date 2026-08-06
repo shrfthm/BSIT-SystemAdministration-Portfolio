@@ -1,14 +1,17 @@
 # Week 1 – Building My Professional Environment
 ## Student Information
-ü Name: Shareef P. Tohmi
-ü Course: Bachelor of Science in Information Technology
-ü Section: 4A Web and Mobile Development
-ü Date: August 6, 2026
+Name: Shareef P. Tohmi
+Course: Bachelor of Science in Information Technology
+Section: 4A Web and Mobile Development
+Date: August 6, 2026
 # Objectives
 (Write your own learning objectives.)
 ---
 # Software Installed
-List every software installed.
+- GUI
+- Github Desktop
+- Visual Studio Code
+- Virtual Box
 ---
 # Professional Accounts
 GitHub:
