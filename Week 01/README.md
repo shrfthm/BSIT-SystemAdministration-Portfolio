@@ -21,8 +21,8 @@ By completing the Week 1 Laboratory Activity, I aim to achieve the following:
 - Windows Enterprise Evaluation ISO
 ---
 # Professional Accounts
-GitHub: https://github.com/shrfthm
-LinkedIn: https://www.linkedin.com/in/shareef-tohmi-16780a427/
+- **GitHub:** https://github.com/shrfthm
+- **LinkedIn:** ://www.linkedin.com/in/shareef-tohmi-16780a427/
 ---
 # Installation Screenshots
 Insert screenshots.
