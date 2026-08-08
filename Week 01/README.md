@@ -17,10 +17,12 @@ By completing the Week 1 Laboratory Activity, I aim to achieve the following:
 - Github Desktop
 - Visual Studio Code
 - Virtual Box
+- Ubuntu ISO
+- Windows Enterprise Evaluation ISO
 ---
 # Professional Accounts
 GitHub: https://github.com/shrfthm
-LinkedIn:
+LinkedIn: https://www.linkedin.com/in/shareef-tohmi-16780a427/
 ---
 # Installation Screenshots
 Insert screenshots.
