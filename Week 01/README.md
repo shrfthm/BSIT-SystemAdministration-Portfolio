@@ -25,7 +25,11 @@ By completing the Week 1 Laboratory Activity, I aim to achieve the following:
 - **LinkedIn:** ://www.linkedin.com/in/shareef-tohmi-16780a427/
 ---
 # Installation Screenshots
-Insert screenshots.
+![Git Installation](./screenshots/git-install.png)
+![VS Code Installation](./screenshots/vscode-install.png)
+![VirtualBox Installation](./screenshots/virtualbox-install.png)
+![Ubuntu ISO](./screenshots/ubuntu-iso.png)
+![Windows ISO](./screenshots/windows-iso.png)
 ---
 # Challenges Encountered
 During the setup and installation of the virtual machines in Oracle VirtualBox, three key technical challenges were encountered and resolved:
