@@ -133,7 +133,7 @@ This project improved my understanding of enterprise system administration by co
 
 # References
 
-1. ABC Startup Solutions. *Enterprise Infrastructure Plan*. (Course Project)
+1. ABC Startup Solutions. *Enterprise Infrastructure Plan*. 
 2. Canonical Ltd. *Ubuntu Server 24.04 LTS Documentation*. https://ubuntu.com/server/docs
 3. Microsoft Learn. *Windows Security Documentation*. https://learn.microsoft.com/windows/security
 4. Microsoft Learn. *Microsoft Defender for Endpoint Documentation*. https://learn.microsoft.com/defender-endpoint
