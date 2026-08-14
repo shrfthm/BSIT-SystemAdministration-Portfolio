@@ -75,7 +75,7 @@ The company requires secure networking, centralized file storage, VPN access for
 
 ## Embedded Network Diagram
 
-![ABC Startup Solutions Network Diagram](images/Diagaram.png)
+![ABC Startup Solutions Network Diagram](images/ABC.drawio.png)
 
 *Figure 1. Enterprise Network Infrastructure of ABC Startup Solutions.*
 
